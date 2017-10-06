@@ -21,10 +21,10 @@
         <table class="table table-striped">
             <thead>
             <tr>
-                <th>Name</th>
-                <th>Birth Date</th>
-                <th>Type</th>
-                <th>Owner</th>
+                <th>Nom</th>
+                <th>Date de naissance</th>
+                <th>Genre</th>
+                <th>Proprietaire</th>
             </tr>
             </thead>
             <tr>
