@@ -10,7 +10,7 @@
     <table id="vetsTable" class="table table-striped">
         <thead>
         <tr>
-            <th>Nom du veterinaire</th>
+            <th>Nom veterinaire</th>
             <th>Specialites</th>
         </tr>
         </thead>
